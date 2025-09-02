@@ -1,9 +1,10 @@
 # G-Code-Generator-using-AI
 
-Here , test.py file is the main file . rest all are just for testing purpose.  
-mainvs.py is the visualisation tool for gcode (3-D Visualisation only)   
-custom location for output must be defined by the user   
-Python version 3.11 is used to develop this prototype.
+Here , test.py file is the main file. 
+Rest of those are just for prototyping.  
+mainvs.py contains the visualisation tool for gcode (3-D Visualisation only)   
+custom location for output must be defined by the user usually when prototyping or running dry tests.   
+Python version 3.11 was leveraged to develop this prototype.
 
 #### NOTE :
 
